@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/PIIIWEB2025/proyectoU3/src/java/Conexion/conexion.java</file>
+            <file>file:/C:/PIIIWEB2025/proyectoU3/src/java/Controlador/UsuarioServlet.java</file>
+            <file>file:/C:/PIIIWEB2025/proyectoU3/src/java/DAO/UsuarioDAO.java</file>
+            <file>file:/C:/PIIIWEB2025/proyectoU3/web/register.jsp</file>
+            <file>file:/C:/PIIIWEB2025/proyectoU3/src/java/Modelo/Pedido.java</file>
+            <file>file:/C:/PIIIWEB2025/proyectoU3/src/java/DAO/PedidoDAO.java</file>
+            <file>file:/C:/PIIIWEB2025/proyectoU3/src/java/Controlador/DashboardServlet.java</file>
+            <file>file:/C:/PIIIWEB2025/proyectoU3/web/dashboard.jsp</file>
+            <file>file:/C:/PIIIWEB2025/proyectoU3/web/seleccion-tipo-pedido.jsp</file>
+            <file>file:/C:/PIIIWEB2025/proyectoU3/src/java/Controlador/NuevoPedidoServlet.java</file>
+            <file>file:/C:/PIIIWEB2025/proyectoU3/web/seleccionar-fecha.jsp</file>
+            <file>file:/C:/PIIIWEB2025/proyectoU3/web/elegir-platos.jsp</file>
+            <file>file:/C:/PIIIWEB2025/proyectoU3/src/java/Controlador/ConfirmarPedidoServlet.java</file>
+            <file>file:/C:/PIIIWEB2025/proyectoU3/web/resumenPedido.jsp</file>
+            <file>file:/C:/PIIIWEB2025/proyectoU3/web/Login.jsp</file>
+            <file>file:/C:/PIIIWEB2025/proyectoU3/web/pago.jsp</file>
+            <file>file:/C:/PIIIWEB2025/proyectoU3/src/java/Controlador/PagoServlet.java</file>
+            <file>file:/C:/PIIIWEB2025/proyectoU3/web/confirmacionPago.jsp</file>
+            <file>file:/C:/PIIIWEB2025/proyectoU3/web/WEB-INF/web.xml</file>
+            <file>file:/C:/PIIIWEB2025/proyectoU3/web/galeria.jsp</file>
+            <file>file:/C:/PIIIWEB2025/proyectoU3/web/index.jsp</file>
+            <file>file:/C:/PIIIWEB2025/proyectoU3/web/nosotros.jsp</file>
+            <file>file:/C:/PIIIWEB2025/proyectoU3/web/seleccion-platos-semanal.jsp</file>
+            <file>file:/C:/PIIIWEB2025/proyectoU3/src/java/Modelo/Plato.java</file>
+            <file>file:/C:/PIIIWEB2025/proyectoU3/src/java/Controlador/SeleccionSemanalServlet.java</file>
+            <file>file:/C:/PIIIWEB2025/proyectoU3/src/java/Controlador/ConfirmarPedidoSemanalServlet.java</file>
+            <file>file:/C:/PIIIWEB2025/proyectoU3/web/resumenPedidoDiario.jsp</file>
+        </group>
+    </open-files>
+</project-private>
