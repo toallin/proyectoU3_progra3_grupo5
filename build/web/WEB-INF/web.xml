@@ -32,6 +32,10 @@
         <servlet-name>ConfirmarPedidoSemanalServlet</servlet-name>
         <servlet-class>Controlador.ConfirmarPedidoSemanalServlet</servlet-class>
     </servlet>
+    <servlet>
+        <servlet-name>EnviarWhatsAppServlet</servlet-name>
+        <servlet-class>Controlador.EnviarWhatsAppServlet</servlet-class>
+    </servlet>
     <servlet-mapping>
         <servlet-name>UsuarioServlet</servlet-name>
         <url-pattern>/usuario</url-pattern>
@@ -63,5 +67,9 @@
     <servlet-mapping>
         <servlet-name>ConfirmarPedidoSemanalServlet</servlet-name>
         <url-pattern>/ConfirmarPedidoSemanalServlet</url-pattern>
+    </servlet-mapping>
+    <servlet-mapping>
+        <servlet-name>EnviarWhatsAppServlet</servlet-name>
+        <url-pattern>/EnviarWhatsAppServlet</url-pattern>
     </servlet-mapping>
 </web-app>

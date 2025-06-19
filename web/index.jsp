@@ -109,34 +109,36 @@
     </section>
 
     <!-- Footer -->
-    <footer id="footer">
-        <div class="inner">
-            <h2>Contacto</h2>
-            <form action="#" method="post">
-                <div class="field half first">
-                    <label for="name">Nombre</label>
-                    <input name="name" id="name" type="text" placeholder="Tu nombre" />
-                </div>
-                <div class="field half">
-                    <label for="email">Correo Electrónico</label>
-                    <input name="email" id="email" type="email" placeholder="Tu email" />
-                </div>
-                <div class="field">
-                    <label for="message">Mensaje</label>
-                    <textarea name="message" id="message" rows="6" placeholder="Escribe tu mensaje aquí"></textarea>
-                </div>
-                <ul class="actions">
-                    <li><input value="Enviar Mensaje" class="button alt" type="submit" /></li>
-                </ul>
-            </form>
+  <footer id="footer">
+    <div class="inner">
+        <h2>Contacto</h2>
+        <form action="EnviarWhatsAppServlet" method="post">
+            <div class="field half first">
+                <label for="name">Nombre</label>
+                <input name="name" id="name" type="text" placeholder="Tu nombre" required />
+            </div>
+            <div class="field half">
+                <label for="email">Número de WhatsApp (con +51...)</label>
+                <input name="email" id="email" type="tel" placeholder="+51 999999999" required style="color: black;" />
 
-            <ul class="icons">
-                <li><a href="#" class="icon round fa-twitter"><span class="label">Twitter</span></a></li>
-                <li><a href="#" class="icon round fa-facebook"><span class="label">Facebook</span></a></li>
-                <li><a href="#" class="icon round fa-instagram"><span class="label">Instagram</span></a></li>
+            </div>
+            <div class="field">
+                <label for="message">Mensaje</label>
+                <textarea name="message" id="message" rows="6" placeholder="Escribe tu mensaje aquí" required></textarea>
+            </div>
+            <ul class="actions">
+                <li><input value="Enviar por WhatsApp" class="button alt" type="submit" /></li>
             </ul>
-        </div>
-    </footer>
+        </form>
+
+        <ul class="icons">
+            <li><a href="#" class="icon round fa-twitter"><span class="label">Twitter</span></a></li>
+            <li><a href="#" class="icon round fa-facebook"><span class="label">Facebook</span></a></li>
+            <li><a href="#" class="icon round fa-instagram"><span class="label">Instagram</span></a></li>
+        </ul>
+    </div>
+</footer>
+
 
     <div class="copyright">
         Sitio web creado con: <a href="https://templated.co/">Templated</a> Distribuido por <a href="https://themewagon.com/">ThemeWagon</a>

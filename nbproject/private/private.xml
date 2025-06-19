@@ -30,6 +30,8 @@
             <file>file:/C:/PIIIWEB2025/proyectoU3/src/java/Controlador/SeleccionSemanalServlet.java</file>
             <file>file:/C:/PIIIWEB2025/proyectoU3/src/java/Controlador/ConfirmarPedidoSemanalServlet.java</file>
             <file>file:/C:/PIIIWEB2025/proyectoU3/web/resumenPedidoDiario.jsp</file>
+            <file>file:/C:/PIIIWEB2025/proyectoU3/src/java/Modelo/Usuario.java</file>
+            <file>file:/C:/PIIIWEB2025/proyectoU3/src/java/Controlador/EnviarWhatsAppServlet.java</file>
         </group>
     </open-files>
 </project-private>
